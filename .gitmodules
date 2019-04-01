@@ -1,3 +1,0 @@
-[submodule "subrepo_1/subrepo1"]
-	path = subrepo_1/subrepo1
-	url = https://github.com/kefei-wei/subrepo1.git
